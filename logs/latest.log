@@ -1,0 +1,171 @@
+[15:09:00] [CanaryMod] [INFO]: Starting: CanaryMod 1.8.0-1.2.1-SNAPSHOT
+[15:09:00] [CanaryMod] [INFO]: Canary Path: /Users/student8/Desktop/CanaryMod/canarymod.jar & Working From: /Users/student8/Desktop/CanaryMod
+[15:09:01] [CanaryMod] [INFO]: Registered xml Database
+[15:09:01] [CanaryMod] [INFO]: Found 1 plugins; total: 1
+[15:09:03] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting minecraft server version 1.8
+[15:09:03] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Loading properties
+[15:09:03] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Generating keypair
+[15:09:03] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting Minecraft server on *:25565
+[15:09:03] [CanaryMod] [INFO]: Enabling early Plugins...
+[15:09:05] [CanaryMod] [INFO]: Enabling late Plugins...
+[15:09:05] [CanaryMod] [INFO]: Enabling plugin ScriptCraft
+[15:09:05] [ScriptCraft] [INFO]: Directory /Users/student8/Desktop/CanaryMod/scriptcraft does not exist.
+[15:09:05] [ScriptCraft] [INFO]: Initializing /Users/student8/Desktop/CanaryMod/scriptcraft directory with contents from plugin archive.
+[15:09:05] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/command.js (NE)
+[15:09:05] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/console.js (NE)
+[15:09:05] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/events-bukkit.js (NE)
+[15:09:05] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/events-canary.js (NE)
+[15:09:05] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/events-helper-bukkit.js (NE)
+[15:09:05] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/events-helper-canary.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/events.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/find.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/java-utils.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/js-patch.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/json2.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/legacy-check.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/nashorn-type.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/persistence.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/plugin.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/readme.md (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/require.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/scriptcraft.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/tabcomplete-jsp.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/tabcomplete.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/task-bukkit.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/lib/task-canary.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/readme.md (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/alias/alias.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/arrows.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/at.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/classroom.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/commando/commando-test.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/commando/commando.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/castle.js (NE)
+[15:09:06] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/chessboard.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/cottage.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/dancefloor.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/fort.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/hangtorch.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/lcd-clock.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/logo.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/mazegen.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/rainbow.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/redstonewire.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/spawn.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/spiral_stairs.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/contrib/temple.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/drone/drone.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/entities.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/examples/example-1-hello-module.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/examples/example-2-hello-command.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/examples/example-3-hello-ops-only.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/examples/example-4-hello-parameters.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/examples/example-5-hello-using-module.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/examples/example-6-hello-player.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/examples/example-7-hello-events.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/homes/homes.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/minigames/NumberGuess.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/minigames/cow-clicker.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/signs/examples.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/plugins/spawn.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/at.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/block-colors.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/blockhelper.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/blocks.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/bukkit/fireworks.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/bukkit/input.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/bukkit/inventory.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/bukkit/items.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/bukkit/recipes.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/bukkit/sounds.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/canary/fireworks.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/canary/input.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/canary/inventory.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/canary/items.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/canary/recipes.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/canary/sounds.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/classroom/index.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/arc.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/bed.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/blocktype.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/copypaste.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/cylinders.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/doors.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/firework.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/garden.js (NE)
+[15:09:07] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/index.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/ladder.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/movement.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/prism.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/rand.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/sign.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/sphere.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/stairs.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/test.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/drone/trees.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/entities.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/fireworks.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/http/package.json (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/http/request.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/input.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/inventory/index.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/items.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/lightning.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/minigames/scoreboard.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/recipes.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/sc-mqtt.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/signs/menu.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/signs/package.json (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/signs/signs.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/slash.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/sounds.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/spawn.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/teleport.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/underscore.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/utils/package.json (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/utils/string-exts.js (NE)
+[15:09:08] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/utils/utils.js (NE)
+[15:09:09] [ScriptCraft] [INFO]: Unzipping /Users/student8/Desktop/CanaryMod/scriptcraft/modules/watcher.js (NE)
+[15:09:09] [ScriptCraft] [WARN]: alias plugin is not yet supported in CanaryMod
+[15:09:10] [ScriptCraft] [WARN]: commando-test not yet supported in CanaryMod
+[15:09:10] [ScriptCraft] [WARN]: commando plugin is not yet supported in CanaryMod
+[15:09:10] [ScriptCraft] [WARN]: cow-clicker minigame is not yet supported in CanaryMod and Craftbukkit
+[15:09:12] [net.minecraft.server.MinecraftServer] [INFO]: Preparing start region for level default_NORMAL (0)
+[15:09:13] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 38%
+[15:09:13] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Done (9.783s)! For help, type "help" or "?"
+[15:09:13] [ScriptCraft] [INFO]: js-patch setTimeout() test complete
+[15:15:46] [net.minecraft.server.network.NetHandlerLoginServer] [INFO]: UUID of player subwolf358 is 426706d9-df85-47f2-bf49-06790f86be06
+[15:15:46] [net.minecraft.server.management.ServerConfigurationManager] [INFO]: subwolf358[/10.3.52.92:52372] logged in with entity id 46 at (-1225.5, 4.0, -756.5)
+[15:15:46] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 joined the game
+[15:15:57] [net.minecraft.network.NetHandlerPlayServer] [INFO]: subwolf358 lost connection: Disconnected
+[15:15:57] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 left the game
+[15:16:03] [net.minecraft.server.network.NetHandlerLoginServer] [INFO]: UUID of player subwolf358 is 426706d9-df85-47f2-bf49-06790f86be06
+[15:16:03] [net.minecraft.server.management.ServerConfigurationManager] [INFO]: subwolf358[/10.3.52.92:52427] logged in with entity id 72432 at (-1225.5, 4.0, -756.5)
+[15:16:04] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 joined the game
+[15:16:10] [CanaryMod] [INFO]: Command used by subwolf358: /gamemode 1
+[15:16:39] [CanaryMod] [INFO]: Command used by subwolf358: /gamemode 1
+[15:17:01] [CanaryMod] [INFO]: Command used by subwolf358: /gamemode 1
+[15:17:17] [net.minecraft.network.NetHandlerPlayServer] [INFO]: subwolf358 lost connection: Disconnected
+[15:17:17] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 left the game
+[15:19:26] [net.minecraft.server.network.NetHandlerLoginServer] [INFO]: UUID of player subwolf358 is 426706d9-df85-47f2-bf49-06790f86be06
+[15:19:26] [net.minecraft.server.management.ServerConfigurationManager] [INFO]: subwolf358[/10.3.52.92:54169] logged in with entity id 534831 at (-1236.2007289974092, 4.0, -745.4287039048738)
+[15:19:26] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 joined the game
+[15:19:35] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 was slain by Slime
+[15:19:37] [CanaryMod] [INFO]: Command used by subwolf358: /gamemode 1
+[15:20:29] [CanaryMod] [INFO]: Command used by subwolf358: /gamemode c
+[15:20:44] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 was blown up by Creeper
+[15:20:46] [net.minecraft.network.NetHandlerPlayServer] [INFO]: subwolf358 lost connection: Disconnected
+[15:20:46] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 left the game
+[15:20:49] [net.minecraft.server.network.NetHandlerLoginServer] [INFO]: UUID of player subwolf358 is 426706d9-df85-47f2-bf49-06790f86be06
+[15:20:49] [net.minecraft.server.management.ServerConfigurationManager] [INFO]: subwolf358[/10.3.52.92:54885] logged in with entity id 871667 at (-1347.8008705797524, 4.0, -666.4500163100272)
+[15:20:50] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 joined the game
+[15:20:57] [CanaryMod] [INFO]: Command used by subwolf358: /gamemode 1
+[15:21:03] [net.minecraft.network.NetHandlerPlayServer] [INFO]: subwolf358 lost connection: Disconnected
+[15:21:03] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 left the game
+[15:21:07] [net.minecraft.server.network.NetHandlerLoginServer] [INFO]: UUID of player subwolf358 is 426706d9-df85-47f2-bf49-06790f86be06
+[15:21:07] [net.minecraft.server.management.ServerConfigurationManager] [INFO]: subwolf358[/10.3.52.92:55048] logged in with entity id 889821 at (-1220.389386703842, 4.0, -748.170673004798)
+[15:21:07] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 joined the game
+[15:21:11] [CanaryMod] [INFO]: Command used by subwolf358: /gamemode 1
+[15:21:25] [CanaryMod] [INFO]: Command used by subwolf358: /gamemode 1
+[15:21:28] [net.minecraft.network.NetHandlerPlayServer] [INFO]: subwolf358 lost connection: Disconnected
+[15:21:28] [net.minecraft.server.MinecraftServer] [INFO]: subwolf358 left the game
